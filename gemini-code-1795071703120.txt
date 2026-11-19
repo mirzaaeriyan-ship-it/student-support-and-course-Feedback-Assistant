@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.DS_Store
+.streamlit/secrets.toml
+
+# Optional: uncomment if you prefer generating large model binaries via train_models.py
+# Project_01/models/*.keras
+# Project_01/models/*.joblib
